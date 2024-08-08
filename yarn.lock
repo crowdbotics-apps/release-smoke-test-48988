@@ -1466,6 +1466,9 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
@@ -1484,7 +1487,7 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
