@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-image-gallery](modules/image-gallery)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
