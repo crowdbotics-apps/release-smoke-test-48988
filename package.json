@@ -19,6 +19,7 @@
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
@@ -48,6 +49,7 @@
     "react-native-tab-view": "3.1.1",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
+    "react-native-webview": "11.23.0",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1"
   },
