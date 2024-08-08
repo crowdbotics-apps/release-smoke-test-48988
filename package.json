@@ -18,6 +18,7 @@
     "@modules/appointment-local": "file:./modules/appointment-local/",
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
