@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-contact-us](backend/modules)
 - [django-ocr](backend/modules)
 - [faq]()
+- [social-feed]()
 
 # Getting started: Frontend
 

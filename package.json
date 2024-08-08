@@ -21,6 +21,7 @@
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/splash": "file:./modules/splash/",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
